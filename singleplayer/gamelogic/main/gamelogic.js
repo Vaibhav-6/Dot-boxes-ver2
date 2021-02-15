@@ -155,7 +155,7 @@ function refer() {
 }
 
 function home() {
-    location.href = "../../home.html"
+    location.href = "../../index.html"
 }
 
 function highlightGrid( /** @type {MouseEvent} */ ev) {

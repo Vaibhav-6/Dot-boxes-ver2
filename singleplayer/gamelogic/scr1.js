@@ -36,5 +36,5 @@ document.getElementById("dismiss-popup-btn").addEventListener("click", function 
             }
             sessionStorage.setItem("colorCode", JSON.stringify(colordef))
     }
-    location.href = "main/index.html"
+    location.href = "main/home.html"
 })
